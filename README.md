@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (6952 workflows)
+## 📚 Workflows Summary (6956 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3055,6 +3055,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Create Salesforce accounts based on Google Sheets data-1792](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Salesforce%20accounts%20based%20on%20Google%20Sheets%20data-1792)
 - [Create Secure Human-in-the-Loop Approval Flows with Postgres and Telegram-9039](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Secure%20Human-in-the-Loop%20Approval%20Flows%20with%20Postgres%20and%20Telegram-9039)
 - [Create Secure Interactive Applications with WhatsApp Flows End-to-End Encryption-3973](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Secure%20Interactive%20Applications%20with%20WhatsApp%20Flows%20End-to-End%20Encryption-3973)
+- [Create SEO blog drafts in WordPress from trending topics with Perplexity and HuggingFace-12386](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20blog%20drafts%20in%20WordPress%20from%20trending%20topics%20with%20Perplexity%20and%20HuggingFace-12386)
 - [Create SEO Outlines from Top Google Results with SerpAPI and GPT-4o-9056](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20Outlines%20from%20Top%20Google%20Results%20with%20SerpAPI%20and%20GPT-4o-9056)
 - [Create SEO-Optimized Blog Articles with GPT-4o Mini's Multi-Stage Generation-10813](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO-Optimized%20Blog%20Articles%20with%20GPT-4o%20Mini's%20Multi-Stage%20Generation-10813)
 - [Create SEO-Optimized Blogs for WordPress with Perplexity & GPT, Keywords & Media-7259](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO-Optimized%20Blogs%20for%20WordPress%20with%20Perplexity%20%26%20GPT%2C%20Keywords%20%26%20Media-7259)
@@ -3898,6 +3899,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Generate 3D Models from Images using Hunyuan3D AI via Replicate-7110](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%203D%20Models%20from%20Images%20using%20Hunyuan3D%20AI%20via%20Replicate-7110)
 - [Generate 3D models from images using Hunyuan3D v2 and Google Sheets-12452](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%203D%20models%20from%20images%20using%20Hunyuan3D%20v2%20and%20Google%20Sheets-12452)
 - [Generate 3D Structured Images with Fire Part Crafter AI via Replicate API-6790](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%203D%20Structured%20Images%20with%20Fire%20Part%20Crafter%20AI%20via%20Replicate%20API-6790)
+- [Generate 5-level AI explanations for different audiences from Telegram to Google Docs with GPT-4.1-mini-12299](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%205-level%20AI%20explanations%20for%20different%20audiences%20from%20Telegram%20to%20Google%20Docs%20with%20GPT-4.1-mini-12299)
 - [Generate 7-Day Event Plans with Google Calendar, GPT-3.5 and Notion-8325](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%207-Day%20Event%20Plans%20with%20Google%20Calendar%2C%20GPT-3.5%20and%20Notion-8325)
 - [Generate 9:16 Images from Content and Brand Guidelines-2662](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%209%3A16%20Images%20from%20Content%20and%20Brand%20Guidelines-2662)
 - [Generate a Legal Website Accessibility Statement with AI and WAVE-4738](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20a%20Legal%20Website%20Accessibility%20Statement%20with%20AI%20and%20WAVE-4738)
@@ -4496,6 +4498,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Get data from multiple RSS feeds to Telegram-1554](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20data%20from%20multiple%20RSS%20feeds%20to%20Telegram-1554)
 - [Get details of a GitLab repository-465](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20details%20of%20a%20GitLab%20repository-465)
 - [Get DNS entries of any domain with uProc-862](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20DNS%20entries%20of%20any%20domain%20with%20uProc-862)
+- [Get domain expiry reminders with Google Sheets, WHOIS, Telegram, and Ollama AI-12387](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20domain%20expiry%20reminders%20with%20Google%20Sheets%2C%20WHOIS%2C%20Telegram%2C%20and%20Ollama%20AI-12387)
 - [Get email notifications for newly uploaded Google Drive files-1283](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20email%20notifications%20for%20newly%20uploaded%20Google%20Drive%20files-1283)
 - [Get entries from a Cockpit collection-518](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20entries%20from%20a%20Cockpit%20collection-518)
 - [Get Exchange & Sentiment Insights with CoinMarketCap AI Agent-3423](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20Exchange%20%26%20Sentiment%20Insights%20with%20CoinMarketCap%20AI%20Agent-3423)
@@ -5003,6 +5006,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Monitor Furusato Nozei Market Trends with Google News, AI Analysis and Slack Reporting-11128](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20Furusato%20Nozei%20Market%20Trends%20with%20Google%20News%2C%20AI%20Analysis%20and%20Slack%20Reporting-11128)
 - [Monitor German Company Register & Financial Events with Implisense API & Notifications-11749](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20German%20Company%20Register%20%26%20Financial%20Events%20with%20Implisense%20API%20%26%20Notifications-11749)
 - [Monitor GitHub Releases with Gemini AI Chinese Translation & Slack Notifications-3452](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20GitHub%20Releases%20with%20Gemini%20AI%20Chinese%20Translation%20%26%20Slack%20Notifications-3452)
+- [Monitor GitHub repo access and push events with GitHub and Slack alerts-12336](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20GitHub%20repo%20access%20and%20push%20events%20with%20GitHub%20and%20Slack%20alerts-12336)
 - [Monitor Gmail and Send AI Summaries to Telegram using GPT-4o-mini and Keywords-6025](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20Gmail%20and%20Send%20AI%20Summaries%20to%20Telegram%20using%20GPT-4o-mini%20and%20Keywords-6025)
 - [Monitor Google Maps Reviews with GPT-4o Sentiment Analysis & Telegram RAG Agent using Pinecone-11381](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20Google%20Maps%20Reviews%20with%20GPT-4o%20Sentiment%20Analysis%20%26%20Telegram%20RAG%20Agent%20using%20Pinecone-11381)
 - [Monitor high-value USDT transfers on Ethereum with Airtable and Slack alerts-12026](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Monitor%20high-value%20USDT%20transfers%20on%20Ethereum%20with%20Airtable%20and%20Slack%20alerts-12026)
